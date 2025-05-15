@@ -1,4 +1,5 @@
 # Lyft_DS_CLTVAnalysis_forDrivers
+This project is independently created using publicly available data. It is not affiliated with or endorsed by Lyft
 This project explores and analyzes Lyft's driver behavior data to estimate Driver Lifetime Value (LTV) and uncover the factors that impact it. The goal is to empower Lyft with actionable insights for improving driver retention, targeting high-value drivers, and boosting revenue — all through the lens of data science + business strategy.
 
 🧠 Cluster Analysis & Strategic Personas
